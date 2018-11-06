@@ -1,5 +1,4 @@
 # mapreduce
-hadoop.demo.mapreduce
 public class zhaopin {
 public static void main(String[] args) {
         boolean 来自智联 = true;
